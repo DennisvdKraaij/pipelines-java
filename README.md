@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dennisvanderkraaij/sv%20DHL%20Mobile%20Website/_apis/build/status/DennisvdKraaij.pipelines-java?branchName=master)](https://dev.azure.com/dennisvanderkraaij/sv%20DHL%20Mobile%20Website/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
